@@ -1,3 +1,4 @@
+순수코드라인,순환복잡도(10),토큰,파라미터 수,총 라인수(80)
 1,1,2,0,1,"(anonymous)@3-3@./fixtures/fs/readdir/recursive/readdir.js","./fixtures/fs/readdir/recursive/readdir.js","(anonymous)","(anonymous)",3,3
 30,3,223,0,37,"runRichards@44-80@./benchmarks/v8-v7/richards.js","./benchmarks/v8-v7/richards.js","runRichards","runRichards ( )",44,80
 8,1,44,0,8,"Scheduler@100-107@./benchmarks/v8-v7/richards.js","./benchmarks/v8-v7/richards.js","Scheduler","Scheduler ( )",100,107
